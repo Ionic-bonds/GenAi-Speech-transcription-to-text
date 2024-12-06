@@ -1,2 +1,1 @@
-# Istio-project
-An Istio Project.
+# Speech Transcription Project
